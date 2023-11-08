@@ -2,7 +2,7 @@
 
 # Atualmente estou em um estágio como desenvolvedor front-end
 
-<img src="https://github.com/luizmiguel710/luizmiguel710/assets/122630096/9553bb20-a823-4066-a2e9-a682325f33f1" width="100" height="50"/>
+<img src="https://github.com/luizmiguel710/luizmiguel710/assets/122630096/9553bb20-a823-4066-a2e9-a682325f33f1" width="800" height="500"/>
 
 
 
