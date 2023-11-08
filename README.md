@@ -2,7 +2,8 @@
 
 # Atualmente estou em um estágio como desenvolvedor front-end
 
-![octocat-1699464751129](https://github.com/luizmiguel710/luizmiguel710/assets/122630096/966c1cd8-670d-4b86-8993-8e82afc263e5)
+![octocat-1699472441677](https://github.com/luizmiguel710/luizmiguel710/assets/122630096/9553bb20-a823-4066-a2e9-a682325f33f1)
+
 
 
 # Ferramentas e Technologias adquiridas por mim
