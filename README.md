@@ -1,7 +1,7 @@
 ## Olá, me chamo Luiz Miguel !
 
 ## Ferramentas e technologias 
-<img loading="lazy" i class="devicon-html5-plain-wordmark colored"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
           
           
 
