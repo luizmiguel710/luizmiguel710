@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=55&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Luiz+Miguel%3BI%27+Tenho+23+anos%3BI%27+Brasileiro%3BI%27+Front-end+Developer%3+Bem-vindo%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=55&center=true&vCenter=true&width=1000&lines=Olá%2C+meu+nome+é+Luiz+Miguel%3BI%27Tenho+23+anos%3BI%27Brasileiro%3BI%27+Front-end+Developer%3Bem-vindo%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 # Atualmente estou em um estágio como desenvolvedor front-end
 
