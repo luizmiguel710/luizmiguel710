@@ -1,4 +1,9 @@
-### Hi there 👋
+## Olá, me chamo Luiz Miguel !
+
+## Ferramentas e technologias 
+<i class="devicon-html5-plain-wordmark colored" width="40" height="40"></i>
+          
+          
 
 <!--
 **luizmiguel710/luizmiguel710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
